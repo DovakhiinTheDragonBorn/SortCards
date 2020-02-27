@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0275137-f374-4239-baa9-cf0f8025e83a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CardDeck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortCards/com/company/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortCards/com/company/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortCards/com/company/CardDeck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortCards/com/company/CardDeck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortCards/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortCards/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CardDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CardDeck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,26 +79,26 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1010" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1582826716633" />
-    <state x="934" y="114" key="CommitChangelistDialog2" timestamp="1582826249535">
+    <state x="934" y="114" key="CommitChangelistDialog2" timestamp="1582828295942">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="934" y="114" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1582826249535" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1582828075773">
+    <state x="934" y="114" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1582828295942" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1582829083210">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1582828075773" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1582828075772">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1582829083210" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1582829083210">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1582828075772" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1582828075772">
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1582829083210" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1582829083210">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1582828075772" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1582828075772">
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1582829083210" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1582829083210">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1582828075772" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1582829083210" />
     <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1582827790729">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
