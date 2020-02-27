@@ -41,4 +41,10 @@ public class CardDeck {
             }
         }
     }
+
+    public void SortRows() {
+    }
+
+    public void SortColumns() {
+    }
 }
