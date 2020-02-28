@@ -36,8 +36,5 @@ public class Main {
             }
 
         }
-
-        myDeck.Shuffle();
-        myDeck.ShowCards();
     }
 }

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d0275137-f374-4239-baa9-cf0f8025e83a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CardDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CardDeck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582914500819</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Complete">
+      <created>1582914738619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582914738619</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,10 +115,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1010" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1582826716633" />
-    <state x="934" y="114" key="CommitChangelistDialog2" timestamp="1582914514824">
+    <state x="934" y="114" key="CommitChangelistDialog2" timestamp="1582914738092">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="934" y="114" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1582914514824" />
+    <state x="934" y="114" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1582914738092" />
     <state width="412" height="466" key="DebuggerActiveHint" timestamp="1582910719967">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>

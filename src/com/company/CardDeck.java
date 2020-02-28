@@ -39,7 +39,6 @@ public class CardDeck {
     }
 
     public void SortColumns() {
-
         for (int i = 0; i < 13; i++) {
             for (int j = 0; j < 3; j++) {
                 for (int k = 0; k < 3 - j ; k++) {
@@ -58,7 +57,7 @@ public class CardDeck {
                 }
             }
         }
-        }
+    }
 
 
     public void SortRows() {
@@ -77,9 +76,9 @@ public class CardDeck {
                             deck[i][k + 1] = temp;
                         }
                     }
-                    }
                 }
             }
         }
     }
+}
 
