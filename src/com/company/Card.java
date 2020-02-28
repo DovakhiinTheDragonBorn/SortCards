@@ -2,18 +2,10 @@ package com.company;
 
 public class Card {
     private int value;
-    private  String suit;
+    private  int suit;
 
-    public Card(int value, String suit) {
+    public Card(int value, int suit) {
         this.value = value;
-        this.suit = suit;
-    }
-
-    public void setValue(int value) {
-        this.value = value;
-    }
-
-    public void setSuit(String suit) {
         this.suit = suit;
     }
 
@@ -21,7 +13,7 @@ public class Card {
         return value;
     }
 
-    public String getSuit() {
+    public int getSuit() {
         return suit;
     }
 }

@@ -11,19 +11,17 @@ public class CardDeck {
 
     public CardDeck()
     {
-        for(int a =0; a<=3; a++)
-        {
+        for(int a =0; a<=3; a++){
             for(int b =0; b<=12;b++)
-               deck[a][b] = new Card(b,suit[a]);
+               deck[a][b] = new Card(b,a);
         }
     }
 
     public void ShowCards()
     {
-        for(int a =0; a<=12; a++)
-        {
+        for(int a =0; a<=12; a++){
             for(int b =0; b<=3;b++)
-                System.out.print(value[deck[b][a].getValue()]+" "+ deck[b][a].getSuit()+"\t");
+                System.out.print(value[deck[b][a].getValue()]+" "+ suit[deck[b][a].getSuit()]+"|\t\t");
             System.out.println();
         }
     }
@@ -46,5 +44,24 @@ public class CardDeck {
     }
 
     public void SortColumns() {
+        for (int i = 0; i < deck.length; i++) {
+            for (int j = 0; j < deck[i].length; j++) {
+                for (int k = 0; k < deck[i].length - j - 1; k++) {
+                    if (deck[i][k].getValue() > deck[i][k + 1].getValue()) {
+                        Card temp = deck[i][k];
+                        deck[i][k] = deck[i][k + 1];
+                        deck[i][k + 1] = temp;
+                    }
+                    else  if (deck[i][k].getValue() == deck[i][k + 1].getValue()) {
+                        if (deck[i][k].getSuit() > deck[i][k + 1].getSuit()) {
+                            Card temp = deck[i][k];
+                            deck[i][k] = deck[i][k + 1];
+                            deck[i][k + 1] = temp;
+                        }
+                    }
+                    }
+                }
+            }
+        }
     }
-}
+
